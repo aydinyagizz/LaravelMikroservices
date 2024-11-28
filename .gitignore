@@ -1,0 +1,13 @@
+# Kullanıcıların local veritabanı dosyaları
+users/storage/dbdata/
+
+# Laravel cache ve log dosyaları
+storage/
+bootstrap/cache/
+
+# Node.js modülleri
+node_modules/
+
+# Gömülü git depoları
+laravel-ambassador/.git
+react-ambassador/.git
